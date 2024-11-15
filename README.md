@@ -19,7 +19,6 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    - Right-click on the Terminal app in Finder.
    - Select **"Get Info"**.
    - Check the box labeled **"Open using Rosetta"**.
-   
 2. **Create the Environment:**
    Open a terminal (running under Rosetta) and run the following commands:
 
@@ -27,19 +26,16 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    CONDA_SUBDIR=osx-64 conda create --name mediapipe_x86 python=3.8
    conda activate mediapipe_x86 
    ```
-   
 3.	**Install Dependencies:**
    Use pip to install the required Python packages:
    ```bash
    pip install -r requirements.txt 
    ```
-   
 4.	**Run the Script:**
    Ensure the hand_recognition.py file is in the same directory. Then run:
    ```bash
    python hand_recognition.py
    ```
-
 ---
 
 ## Windows Installation
