@@ -1,6 +1,6 @@
 # Hand Recognition Script
 
-This project uses MediaPipe and OpenCV for real-time hand recognition via a webcam. Follow the instructions below to set up the environment and run the script on **macOS** or **Windows**.
+This project uses MediaPipe and OpenCV for real-time hand recognition via a webcam. Follow the instructions below to set up the environment and run the script on [macOS](#macos-installation) or [Windows](#windows-installation).
 
 ---
 
