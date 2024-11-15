@@ -39,6 +39,8 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    python hand_recognition.py
    ```
 
+---
+
 ## Windows Installation
 
 ### Prerequisites
@@ -65,6 +67,7 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    ```bash
    python hand_recognition.py
    ```
+---
 
 ## Notes
 
