@@ -1,4 +1,4 @@
-# PER USARE QUESTO SCRIPT USARE CONDA mediapipe_x86
+# TO USE THIS SCRIPT: $ CONDA mediapipe_x86
 
 import cv2
 import mediapipe as mp
