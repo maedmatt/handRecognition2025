@@ -78,3 +78,17 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
 If you encounter issues, feel free to open an issue in the repository.
 
 This version includes explicit commands and steps for both macOS and Windows, ensuring users can follow along easily.
+
+---
+
+## License
+
+The use of this code is governed by the licenses of the third-party libraries it depends on:
+
+- **MediaPipe**: Licensed under the [Apache License 2.0](https://github.com/google/mediapipe/blob/master/LICENSE).
+- **OpenCV**: Licensed under the [Apache License 2.0](https://github.com/opencv/opencv/blob/master/LICENSE).
+- **NumPy**: Licensed under the [BSD 3-Clause License](https://github.com/numpy/numpy/blob/main/LICENSE.txt).
+
+By using this repository, you agree to comply with the terms of these licenses.
+
+If you distribute or use this code as part of your project, ensure proper attribution to the libraries used.
