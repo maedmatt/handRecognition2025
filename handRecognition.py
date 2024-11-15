@@ -8,7 +8,7 @@ mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
 # Start video capture
-cap = cv2.VideoCapture(0) # 1 is my mac webcam, 0 is the iphone camera
+cap = cv2.VideoCapture(0) # 1 is the mac webcam, 0 is the iphone camera
 
 with mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.7) as hands:
     while cap.isOpened():
