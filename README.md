@@ -76,6 +76,5 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
 - **Rosetta Tip**: Always run the terminal using Rosetta for macOS M1/M2 users when working with x86 environments.
 
 If you encounter issues, feel free to open an issue in the repository.
-   ```markdown
-   This version includes explicit commands and steps for both macOS and Windows, ensuring users can follow along easily.
-   ```
+
+This version includes explicit commands and steps for both macOS and Windows, ensuring users can follow along easily.
