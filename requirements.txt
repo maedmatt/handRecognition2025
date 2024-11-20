@@ -1,6 +1,6 @@
 # This file may be used to create an environment using:
 # ---- MAC ----
-# $ CONDA_SUBDIR=osx-64 conda create --name mediapipe_x86_TEST python=3.8
+# $ CONDA_SUBDIR=osx-64 conda create --name mediapipe_x86 python=3.8
 # platform: osx-64
 # ---- WINDOWS ----
 # $ conda create --name mediapipe_x86 python=3.8
