@@ -1,4 +1,4 @@
-# TO USE THIS SCRIPT: $ CONDA mediapipe_x86
+# TO USE THIS SCRIPT: $ conda activate mediapipe_env
 
 import cv2
 import mediapipe as mp
