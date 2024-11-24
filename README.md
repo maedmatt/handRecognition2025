@@ -39,11 +39,13 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    ```
 3.	**Install Dependencies:**
    Use pip to install the required Python packages:
+  	
    ```bash
    pip install -r requirements.txt 
    ```
 4.	**Run the Script:**
    Ensure the hand_recognition.py file is in the same directory. Then run:
+  	
    ```bash
    python hand_recognition.py
    ```
@@ -59,19 +61,22 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
 
 1. **Create the Environment:**
    Open Command Prompt or PowerShell and run:
+   
    ```bash
    conda create --name mediapipe_env python=3.8
    conda activate mediapipe_env
    ```
    
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    Use pip to install the required Python packages:
+   
    ```bash
    pip install -r requirements.txt 
    ```
     
-3.	**Run the Script:**
+4.	**Run the Script:**
    Ensure the hand_recognition.py file is in the same directory. Then run:
+  	
    ```bash
    python hand_recognition.py
    ```
