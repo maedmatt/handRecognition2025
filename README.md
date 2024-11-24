@@ -32,12 +32,12 @@ Rosetta is an emulation layer provided by Apple to run x86 applications on ARM-b
    - Check the box labeled **"Open using Rosetta"**.
 2. **Create the Environment:**
    Open a terminal (running under Rosetta) and run the following commands:
-
+   
    ```bash
    CONDA_SUBDIR=osx-64 conda create --name mediapipe_x86 python=3.8
    conda activate mediapipe_x86 
    ```
-3.	**Install Dependencies:**
+4.	**Install Dependencies:**
    Use pip to install the required Python packages:
   	
    ```bash
