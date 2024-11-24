@@ -4,6 +4,17 @@ This project uses MediaPipe and OpenCV for real-time hand recognition via a webc
 
 ---
 
+## Getting Started
+
+### Clone the Repository
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/maedmatt/handRecognition2025.git
+cd handRecognition2025
+```
+
 ## macOS Installation
 
 ### Prerequisites
